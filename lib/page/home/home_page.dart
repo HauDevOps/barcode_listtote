@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'file:///D:/TestAndroid/layout/lib/base/base_bloc.dart';
-import 'package:layout/entity/co_check.dart';
-import 'package:layout/entity/rows_model.dart';
+import 'package:layout/base/base_bloc.dart';
+import 'package:layout/model/co_check.dart';
+import 'package:layout/model/rows_model.dart';
 
 import 'home_bloc.dart';
 

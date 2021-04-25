@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'file:///D:/TestAndroid/layout/lib/base/base_bloc.dart';
-import 'package:layout/page/home_bloc.dart';
-import 'package:layout/page/home_page.dart';
+import 'package:layout/base/base_bloc.dart';
+import 'package:layout/page/home/home_bloc.dart';
+import 'package:layout/page/home/home_page.dart';
 import 'package:layout/router/router_name.dart';
 
 class CustomerRouter {

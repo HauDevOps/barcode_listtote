@@ -35,6 +35,7 @@ dependencies:
   carousel_slider: ^3.0.0
   shared_preferences: ^2.0.5
   global_configuration: ^1.6.0
+  back_button_interceptor: ^4.3.0
 
 dev_dependencies:
   flutter_test:
